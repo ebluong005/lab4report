@@ -15,17 +15,19 @@ I used 'ls' to check directory, then 'cd lab7' to change directoriies, then used
 <img width="635" alt="Screen Shot 2023-05-22 at 3 10 28 PM" src="https://github.com/ebluong005/lab4report/assets/130106644/9af17a5e-0eca-4226-9c33-42cfd968089b">
 
 Step 7
-<vim ListExamples.java> <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> 
-  <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> 
-    <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> 
-      <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> 
-        <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> <down arrow> <down arrow>, <left key>, <left key>, <left key>,<left key>, <i>, <delete>, <2>, <esc>, <:wq>, <enter>
+"<down arrow>, <vim ListExamples.java>, <down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>,
+<down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>,
+<down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>,
+<down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>,
+<down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>, <down arrow>,
+<left key>, <left key>, <left key>, <left key>, <i>, <delete>, <2>, <esc>, <:wq>, <enter>"
   
  Step 8
- I then used bash 'tesh.sh' again to run the junit test
+ I then used bash 'tesh.sh' again to run the junit test.
   
 <img width="376" alt="Screen Shot 2023-05-22 at 3 22 44 PM" src="https://github.com/ebluong005/lab4report/assets/130106644/03a38ece-3f14-4969-9b1a-326ac73fb949">
   
   
+          
   Step 9 
   I used the command 'git commit -a' and then enter the message to push the file with the added changes into my github account.
