@@ -15,12 +15,14 @@ I used 'ls' to check directory, then 'cd lab7' to change directoriies, then used
 <img width="635" alt="Screen Shot 2023-05-22 at 3 10 28 PM" src="https://github.com/ebluong005/lab4report/assets/130106644/9af17a5e-0eca-4226-9c33-42cfd968089b">
 
 Step 7
+``` 
 <down arrow><vim ListExamples.java><down arrow><down arrow><down arrow><down arrow><down arrow><down arrow><down arrow>
 <down arrow><down arrow><down arrow><down arrow><down arrow><down arrow><down arrow><down arrow><down arrow>
 <down arrow><down arrow><down arrow><down arrow><down arrow><down arrow><down arrow><down arrow><down arrow><down arrow>
 <down arrow><down arrow><down arrow><down arrow><down arrow><down arrow><down arrow><down arrow><down arrow><down arrow>
 <down arrow><down arrow><down arrow><down arrow><down arrow><down arrow><down arrow><down arrow><down arrow><down arrow>
 <left key><left key><left key><left key><i><delete><2><esc><:wq><enter key>
+  ``` 
   
  Step 8
  I then used bash 'tesh.sh' again to run the junit test.
