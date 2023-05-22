@@ -10,8 +10,8 @@ I logged using my username and password
 
 Step 5:
 
+I used git clone https://github.com/ebluong005/lab7.git
 
-I use git clone https://github.com/ebluong005/lab7.git
 <img width="591" alt="Screen Shot 2023-05-22 at 3 08 31 PM" src="https://github.com/ebluong005/lab4report/assets/130106644/91c57ef9-6447-4d78-9a41-9dc811b7ba84">
 
 Step 6:
