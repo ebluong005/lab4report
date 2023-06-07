@@ -1,27 +1,27 @@
 # Lab Report 4 
 Ethan Luong
 
-Step 4:
+## Step 4:
 
 
 I logged using my username and password
 
 <img width="586" alt="Screen Shot 2023-05-22 at 3 05 57 PM" src="https://github.com/ebluong005/lab4report/assets/130106644/48e2394f-10d9-4d7c-853c-4f63b28eac4a">
 
-Step 5:
+## Step 5:
 
 I used git clone https://github.com/ebluong005/lab7.git
 
 <img width="591" alt="Screen Shot 2023-05-22 at 3 08 31 PM" src="https://github.com/ebluong005/lab4report/assets/130106644/91c57ef9-6447-4d78-9a41-9dc811b7ba84">
 
-Step 6:
+## Step 6:
 
 
-I used 'ls' to check directory, then 'cd lab7' to change directoriies, then used 'ls' to check files, last used 'bash test.sh' to run junit test.
+I used 'ls' to check directory, then ``` cd lab7```  to change directoriies, then used 'ls' to check files, last used ``` bash test.sh```  to run junit test.
 
 <img width="635" alt="Screen Shot 2023-05-22 at 3 10 28 PM" src="https://github.com/ebluong005/lab4report/assets/130106644/9af17a5e-0eca-4226-9c33-42cfd968089b">
 
-Step 7
+## Step 7
 ``` 
 <down arrow><vim ListExamples.java><down arrow><down arrow><down arrow><down arrow><down arrow><down arrow><down arrow>
 <down arrow><down arrow><down arrow><down arrow><down arrow><down arrow><down arrow><down arrow><down arrow>
@@ -31,7 +31,7 @@ Step 7
 <left key><left key><left key><left key><i><delete><2><esc><:wq><enter key>
   ``` 
   
- Step 8:
+## Step 8:
  
  
  I then used bash 'tesh.sh' again to run the junit test.
