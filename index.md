@@ -34,7 +34,7 @@ I used 'ls' to check directory, then ``` cd lab7```  to change directoriies, the
 ## Step 8:
  
  
- I then used bash 'tesh.sh' again to run the junit test.
+ I then used bash ``` tesh.sh``` again to run the junit test.
   
 <img width="376" alt="Screen Shot 2023-05-22 at 3 22 44 PM" src="https://github.com/ebluong005/lab4report/assets/130106644/03a38ece-3f14-4969-9b1a-326ac73fb949">
   
